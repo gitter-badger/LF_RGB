@@ -1,1 +1,1 @@
-LineFollower robot with memorizing path algotithm
+LineFollower robot with memorizing path algorithm
